@@ -1,4 +1,4 @@
-module github.com/rharper-sapient/diffpasser
+module github.com/rharper-sapient/diffparser
 
 go 1.12
 
